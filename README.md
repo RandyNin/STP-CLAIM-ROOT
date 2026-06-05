@@ -154,7 +154,7 @@ Switch(config)# errdisable recovery interval 300
 
 ## Video demostrativo
 
-**Enlace:** [https://youtu.be/iSo_wrsECSg](https://youtu.be/iSo_wrsECSg)
+**Enlace:** [https://www.youtube.com/watch?v=iSo_wrsECSg&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp](https://www.youtube.com/watch?v=iSo_wrsECSg&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp)
 
 ---
 
