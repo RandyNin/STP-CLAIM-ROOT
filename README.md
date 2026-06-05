@@ -95,6 +95,9 @@ Al recibir un BPDU con Bridge ID (4096 + 02:xx:xx:xx:xx:xx), numéricamente infe
 
 ## Entorno de laboratorio
 
+<img src="IMG/Topology.png" alt="Descripción" width="615"/>
+
+
 |Dispositivo|Rol|Bridge ID / IP|
 |:--|:--|:--|
 |Sw-1|Root Bridge inicial|Prioridad 32769 / MAC 0ca5.af30.0000|
